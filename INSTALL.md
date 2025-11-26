@@ -73,14 +73,17 @@ Cursor is an AI-powered code editor built on top of VS Code. It provides the sam
     *   Follow the same steps as VS Code to open the project and select the `venv` kernel for your notebooks.
     *   You can use `Cmd+K` (macOS) or `Ctrl+K` (Windows) to ask AI questions about the code directly in the editor.
 
-### Option C: Antigravity (Python IDE)
+### Option C: Antigravity (Google)
 
-*Note: If "Antigravity" refers to a specific internal or new agentic IDE provided for this course, please refer to the specific documentation provided with that tool. If you are referring to the Python easter egg, `import antigravity` opens a comic!*
+Antigravity is a powerful, AI-first IDE from Google.
 
-For any other Python IDE (e.g., PyCharm, Spyder):
-1.  Open the project directory.
-2.  Configure the project interpreter to point to the `venv` created in step 1.
-3.  Ensure Jupyter support is enabled or installed.
+1.  **Access Antigravity**: Navigate to [antigravity.google/product](https://antigravity.google/product).
+2.  **Open the Project**:
+    *   Import the repository from GitHub or open your local folder.
+3.  **Setup**:
+    *   Ensure the environment is configured to use the project's dependencies.
+    *   Open any `.ipynb` file from `LabFiles/`.
+    *   Select the active Python kernel that corresponds to your environment.
 
 ## 3. API Keys
 

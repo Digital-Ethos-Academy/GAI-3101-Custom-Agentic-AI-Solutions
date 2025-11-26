@@ -3,9 +3,9 @@
 Not every automation problem requires agentic AI. In many cases, traditional scripting or Robotic Process Automation (RPA) tools are simpler, faster, cheaper, and more reliable solutions.
 
 **Related Resources:**
-- [Opportunity Checklist](template-opportunity-checklist.md) - Assess if agentic AI is appropriate
+- [Opportunity Checklist](../templates/template-opportunity-checklist.md) - Assess if agentic AI is appropriate
 - [VSM Guide](vsm-guide.md) - Identify automation opportunities systematically
-- [Technology Decision Matrix](reference-tech-decision-matrix.md) - Compare automation approaches
+- [Technology Decision Matrix](../references/reference-technology-decisions.md) - Compare automation approaches
 
 ---
 
@@ -326,6 +326,6 @@ Even if traditional automation is better today, revisit the decision if:
 ---
 
 **Navigation:**
-- [← Back to Opportunity Checklist](template-opportunity-checklist.md)
-- [→ Technology Decision Matrix](reference-tech-decision-matrix.md)
-- [↑ Support Materials Home](README.md)
+- [← Back to Opportunity Checklist](../templates/template-opportunity-checklist.md)
+- [→ Technology Decision Matrix](../references/reference-technology-decisions.md)
+- [↑ Support Materials Home](../README.md)

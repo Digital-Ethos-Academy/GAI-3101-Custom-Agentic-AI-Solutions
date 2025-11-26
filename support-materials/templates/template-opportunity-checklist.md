@@ -3,8 +3,8 @@
 Use this checklist to quickly assess whether a workflow step or process is a good candidate for agentic AI automation.
 
 **Related Resources:**
-- [VSM Guide](vsm-guide.md) - Systematic approach to finding opportunities
-- [When NOT to Use Agentic AI](when-not-to-use-agentic-ai.md) - Alternative automation approaches
+- [VSM Guide](../guides/vsm-guide.md) - Systematic approach to finding opportunities
+- [When NOT to Use Agentic AI](../guides/when-not-to-use-agentic-ai.md) - Alternative automation approaches
 - [Use Case Card Template](template-use-case-card.md) - Document validated opportunities
 
 ---
@@ -19,7 +19,7 @@ Answer these first to determine if deeper analysis is warranted:
 - [ ] Is there a clear way to measure success/quality of outcomes?
 - [ ] Is the cost/impact of occasional errors acceptable with proper guardrails?
 
-**If any answer is NO, consider [alternative automation approaches](when-not-to-use-agentic-ai.md) instead.**
+**If any answer is NO, consider [alternative automation approaches](../guides/when-not-to-use-agentic-ai.md) instead.**
 
 ---
 
@@ -185,7 +185,7 @@ Plot your use cases based on:
 - [ ] **Proceed to Use Case Development** - Complete [Use Case Card](template-use-case-card.md)
 - [ ] **Request Further Analysis** - Specify what's needed: ___________
 - [ ] **Defer** - Reason: ___________
-- [ ] **Pursue Alternative Automation** - See [When NOT to Use Agentic AI](when-not-to-use-agentic-ai.md)
+- [ ] **Pursue Alternative Automation** - See [When NOT to Use Agentic AI](../guides/when-not-to-use-agentic-ai.md)
 
 ### Immediate Next Steps
 1. ___________________________________________

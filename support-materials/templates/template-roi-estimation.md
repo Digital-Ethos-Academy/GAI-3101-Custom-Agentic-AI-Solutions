@@ -3,7 +3,7 @@
 This template helps you quickly estimate the Return on Investment (ROI) for an agentic AI use case identified through Value Stream Mapping.
 
 **Related Resources:**
-- [VSM Guide](vsm-guide.md) - Main guide for identifying agentic AI opportunities
+- [VSM Guide](../guides/vsm-guide.md) - Main guide for identifying agentic AI opportunities
 - [Use Case Card Template](template-use-case-card.md) - Document your use case details
 - [Opportunity Checklist](template-opportunity-checklist.md) - Validate use case viability
 

@@ -49,26 +49,29 @@ This guide provides a comprehensive framework for building and managing agentic 
    - Scalability and performance
    - Organization checklist
 
-### Quick Start Guides
+### 🚀 Quick Starts
 
-- **[Individual Quick Start](./quick-start-individual.md)** - Get your first agent running in < 1 hour
-- **[Team Quick Start](./quick-start-team.md)** - Set up shared infrastructure
-- **[Organization Quick Start](./quick-start-organization.md)** - Deploy production-ready workflows
+- **[Individual Quick Start](./quick-starts/quick-start-individual.md)** - Get your first agent running in < 1 hour
+- **[Team Quick Start](./quick-starts/quick-start-team.md)** - Set up shared infrastructure
+- **[Organization Quick Start](./quick-starts/quick-start-organization.md)** - Deploy production-ready workflows
 
-### Use Case Identification & Planning
+### 📁 Guides
 
-- **[Value Stream Mapping Guide](./vsm-guide.md)** - Systematic approach to identifying agentic AI opportunities
-- **[Use Case Card Template](./template-use-case-card.md)** - Document and validate use cases
-- **[ROI Estimation Template](./template-roi-estimation.md)** - Calculate business value and payback period
-- **[Opportunity Checklist](./template-opportunity-checklist.md)** - Quick assessment for candidate processes
-- **[When NOT to Use Agentic AI](./when-not-to-use-agentic-ai.md)** - Alternative automation approaches
+- **[Value Stream Mapping Guide](./guides/vsm-guide.md)** - Systematic approach to identifying agentic AI opportunities
+- **[When NOT to Use Agentic AI](./guides/when-not-to-use-agentic-ai.md)** - Alternative automation approaches
 
-### Reference Materials
+### 📋 Templates
 
-- **[Common Errors & Solutions](./reference-common-errors.md)** - Error patterns across all levels
-- **[Tool Development Best Practices](./reference-tool-development.md)** - How to build effective tools
-- **[Technology Decision Matrices](./reference-technology-decisions.md)** - Framework, database, and protocol selection
-- **[Comprehensive Checklists](./checklists.md)** - Actionable checklists for each level
+- **[Use Case Card Template](./templates/template-use-case-card.md)** - Document and validate use cases
+- **[ROI Estimation Template](./templates/template-roi-estimation.md)** - Calculate business value and payback period
+- **[Opportunity Checklist](./templates/template-opportunity-checklist.md)** - Quick assessment for candidate processes
+
+### 📚 References
+
+- **[Common Errors & Solutions](./references/reference-common-errors.md)** - Error patterns across all levels
+- **[Tool Development Best Practices](./references/reference-tool-development.md)** - How to build effective tools
+- **[Technology Decision Matrices](./references/reference-technology-decisions.md)** - Framework, database, and protocol selection
+- **[Comprehensive Checklists](./references/checklists.md)** - Actionable checklists for each level
 
 ---
 
@@ -77,19 +80,19 @@ This guide provides a comprehensive framework for building and managing agentic 
 ### Choose Your Path
 
 **Looking for Agentic AI Opportunities?**
-→ Start with [Value Stream Mapping Guide](./vsm-guide.md) to identify high-value use cases
+→ Start with [Value Stream Mapping Guide](./guides/vsm-guide.md) to identify high-value use cases
 
 **New to Agentic AI?**
-→ Start with [Individual Quick Start](./quick-start-individual.md)
+→ Start with [Individual Quick Start](./quick-starts/quick-start-individual.md)
 
 **Working in a Team?**
-→ Read [Team Level Guide](./2-team-level.md) and [Team Quick Start](./quick-start-team.md)
+→ Read [Team Level Guide](./2-team-level.md) and [Team Quick Start](./quick-starts/quick-start-team.md)
 
 **Building for Enterprise?**
-→ Review [Organization Level Guide](./3-organization-level.md) and [Technology Decisions](./reference-technology-decisions.md)
+→ Review [Organization Level Guide](./3-organization-level.md) and [Technology Decisions](./references/reference-technology-decisions.md)
 
 **Need Help with Specific Issue?**
-→ Check [Common Errors & Solutions](./reference-common-errors.md)
+→ Check [Common Errors & Solutions](./references/reference-common-errors.md)
 
 ---
 
@@ -159,7 +162,8 @@ Add governance, security, production deployment
 
 ## 🗺️ Navigation
 
-- **Use Case Planning**: [VSM Guide](./vsm-guide.md) | [Use Case Template](./template-use-case-card.md) | [ROI Template](./template-roi-estimation.md) | [Opportunity Checklist](./template-opportunity-checklist.md) | [When NOT to Use AI](./when-not-to-use-agentic-ai.md)
+- **Guides**: [VSM Guide](./guides/vsm-guide.md) | [When NOT to Use AI](./guides/when-not-to-use-agentic-ai.md)
+- **Templates**: [Use Case Card](./templates/template-use-case-card.md) | [ROI Estimation](./templates/template-roi-estimation.md) | [Opportunity Checklist](./templates/template-opportunity-checklist.md)
 - **Implementation Guides**: [Individual](./1-individual-level.md) | [Team](./2-team-level.md) | [Organization](./3-organization-level.md)
-- **Quick Starts**: [Individual](./quick-start-individual.md) | [Team](./quick-start-team.md) | [Organization](./quick-start-organization.md)
-- **Reference**: [Errors](./reference-common-errors.md) | [Tools](./reference-tool-development.md) | [Tech Decisions](./reference-technology-decisions.md) | [Checklists](./checklists.md)
+- **Quick Starts**: [Individual](./quick-starts/quick-start-individual.md) | [Team](./quick-starts/quick-start-team.md) | [Organization](./quick-starts/quick-start-organization.md)
+- **References**: [Common Errors](./references/reference-common-errors.md) | [Tool Development](./references/reference-tool-development.md) | [Tech Decisions](./references/reference-technology-decisions.md) | [Checklists](./references/checklists.md)

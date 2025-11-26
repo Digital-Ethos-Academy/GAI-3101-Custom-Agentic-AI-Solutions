@@ -4,11 +4,11 @@
 This repository contains the course materials and lab exercises for **GAI-3101: Crafting Custom Agentic AI Solutions**. Developed by Ascendient, LLC, this course guides you through the process of building sophisticated, autonomous AI agents using modern frameworks and techniques.
 
 ## Course Materials
-The repository includes comprehensive guides to support your learning:
+The repository includes comprehensive guides to support your learning, located in the `support-materials/` directory:
 - **Lab Guide**: Step-by-step instructions for the hands-on exercises.
-  - [HTML Version](GAI-3101-LabGuide.html)
-  - [PDF Version](GAI-3101-LabGuide.pdf)
-- **Student Lesson Guide**: [GAI-3101-StudentLessonGuide.pdf](GAI-3101-StudentLessonGuide.pdf) - Detailed conceptual lessons and reference material.
+  - [HTML Version](support-materials/GAI-3101-LabGuide.html)
+  - [PDF Version](support-materials/GAI-3101-LabGuide.pdf)
+- **Student Lesson Guide**: [GAI-3101-StudentLessonGuide.pdf](support-materials/GAI-3101-StudentLessonGuide.pdf) - Detailed conceptual lessons and reference material.
 
 ## Lab Exercises
 All hands-on exercises are located in the `LabFiles/` directory. Each module is structured with a main starter notebook (e.g., `<topic>.ipynb`) and a corresponding `solutions/` folder containing the completed version.

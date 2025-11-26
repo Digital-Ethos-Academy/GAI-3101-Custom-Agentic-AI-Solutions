@@ -88,3 +88,8 @@ logs/
 # OS generated files
 ehthumbs.db
 Desktop.ini
+
+# Credential files
+*-Keys-*.csv
+*-Accounts-*.csv
+222008-*.csv

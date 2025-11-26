@@ -3,12 +3,62 @@
 ## Overview
 This repository contains the course materials and lab exercises for **GAI-3101: Crafting Custom Agentic AI Solutions**. Developed by Ascendient, LLC, this course guides you through the process of building sophisticated, autonomous AI agents using modern frameworks and techniques.
 
+## Repository Structure
+
+```
+GAI-3101-Custom-Agentic-AI-Solutions/
+├── README.md                    # This file
+├── INSTALL.md                   # Installation and setup instructions
+├── requirements.txt             # Python dependencies
+├── LabFiles/                    # Hands-on lab exercises (12 modules)
+│   ├── simple-python-agent/
+│   ├── introducing-single-agents/
+│   ├── using-observation-tools/
+│   ├── using-action-tools/
+│   ├── rule-based-reasoning/
+│   ├── building-personal-assistant/
+│   ├── autogen-reactive-agent/
+│   ├── round-robin-chat/
+│   ├── langgraph-deliberative-agent/
+│   ├── hierarchical-planning/
+│   ├── long-term-memory/
+│   └── implementing-error-recovery/
+└── support-materials/           # Comprehensive guides and resources
+    ├── README.md               # Support materials index and navigation
+    ├── course-materials/       # Official course documents
+    │   ├── GAI-3101-LabGuide.html
+    │   ├── GAI-3101-LabGuide.pdf
+    │   └── GAI-3101-StudentLessonGuide.pdf
+    ├── guides/                 # Best practices and decision guides
+    │   ├── vsm-guide.md       # Value Stream Mapping for use case identification
+    │   └── when-not-to-use-agentic-ai.md
+    ├── templates/              # Practical templates for planning and ROI
+    │   ├── template-use-case-card.md
+    │   ├── template-roi-estimation.md
+    │   └── template-opportunity-checklist.md
+    ├── quick-starts/           # Framework-specific quick start guides
+    │   └── quick-start-individual.md
+    └── references/             # Technical references and best practices
+        ├── checklists.md
+        ├── reference-common-errors.md
+        ├── reference-technology-decisions.md
+        └── reference-tool-development.md
+```
+
 ## Course Materials
-The repository includes comprehensive guides to support your learning, located in the `support-materials/` directory:
-- **Lab Guide**: Step-by-step instructions for the hands-on exercises.
-  - [HTML Version](support-materials/GAI-3101-LabGuide.html)
-  - [PDF Version](support-materials/GAI-3101-LabGuide.pdf)
-- **Student Lesson Guide**: [GAI-3101-StudentLessonGuide.pdf](support-materials/GAI-3101-StudentLessonGuide.pdf) - Detailed conceptual lessons and reference material.
+
+### Official Course Documents
+Located in `support-materials/course-materials/`:
+- **[Lab Guide (HTML)](support-materials/course-materials/GAI-3101-LabGuide.html)** - Interactive step-by-step lab instructions
+- **[Lab Guide (PDF)](support-materials/course-materials/GAI-3101-LabGuide.pdf)** - Downloadable lab instructions
+- **[Student Lesson Guide (PDF)](support-materials/course-materials/GAI-3101-StudentLessonGuide.pdf)** - Comprehensive conceptual lessons
+
+### Support Materials
+Comprehensive best practices and resources - **[Start Here](support-materials/README.md)**:
+- **Guides**: VSM methodology, decision frameworks, when to use alternatives
+- **Templates**: Use case cards, ROI estimation, opportunity assessment
+- **Quick Starts**: Get started quickly with different frameworks
+- **References**: Common errors, tool development, technology decisions
 
 ## Lab Exercises
 All hands-on exercises are located in the `LabFiles/` directory. Each module is structured with a main starter notebook (e.g., `<topic>.ipynb`) and a corresponding `solutions/` folder containing the completed version.
@@ -49,6 +99,8 @@ The labs are organized to take you from basic agent concepts to advanced multi-a
 *   **API Keys**: You will likely need API keys for LLM providers (e.g., OpenAI, Anthropic) as specified in the individual notebooks.
 
 ### Setup
+For detailed installation instructions, see **[INSTALL.md](INSTALL.md)**.
+
 1.  **Clone the repository**:
     ```bash
     git clone https://github.com/Digital-Ethos-Academy/GAI-3101-Custom-Agentic-AI-Solutions.git
@@ -56,11 +108,10 @@ The labs are organized to take you from basic agent concepts to advanced multi-a
     ```
 
 2.  **Set up your environment**:
-    It is recommended to use a virtual environment (venv or conda) to manage dependencies.
     ```bash
     python -m venv venv
     source venv/bin/activate  # On Windows: venv\Scripts\activate
-    # Install dependencies (refer to notebooks for specific packages)
+    pip install -r requirements.txt
     pip install jupyterlab
     ```
 
@@ -69,6 +120,11 @@ The labs are organized to take you from basic agent concepts to advanced multi-a
     jupyter lab
     ```
     Navigate to the `LabFiles` directory and open the notebook for the module you wish to work on.
+
+### Additional Resources
+- **[Support Materials](support-materials/README.md)** - Best practices, templates, and guides
+- **[VSM Guide](support-materials/guides/vsm-guide.md)** - Identify agentic AI opportunities
+- **[Quick Start Guide](support-materials/quick-starts/quick-start-individual.md)** - Get your first agent running
 
 ## License
 Copyright © 2025 Ascendient Learning, LLC. All rights reserved.

@@ -1,0 +1,21 @@
+jupyterlab>=4.0.0
+notebook>=7.0.0
+# LangChain Ecosystem
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-openai>=0.1.0
+langgraph>=0.0.10
+# AutoGen Ecosystem (New Architecture)
+autogen-agentchat
+autogen-core
+autogen-ext[openai]
+# LLM Providers
+openai>=1.0.0
+# Utilities
+pydantic>=2.0.0
+feedparser
+wikipedia
+requests
+numpy
+nest_asyncio
+python-dotenv
